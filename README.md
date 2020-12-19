@@ -7,3 +7,5 @@ I received a query from a friend the other day: how would you take numerical dat
 Once your desired webpage is open(shown below), right-click in some blank space. The drop-down menu will include a command called “Inspect”. Click this command, and a window will open showing the code behind the webpage.
 
 ![Images](image_1.png)
+
+![alt text](https://github.com/[b-haile]/[weather_example]/blob/[Images]/image_1.png?raw=true)
